@@ -1,2 +1,2 @@
 # ProOpenFoam
-C++ for OpenFoam
+C++ for OpenFoam trying to learn
